@@ -121,3 +121,5 @@ including iOS/Android). Uses `<dialog>`-free overlay markup, CSS Grid,
 `aspect-ratio`, and the Web Audio API — all widely supported. Reduced-motion
 and screen-reader labelling are respected throughout; sound is optional and
 off doesn't block understanding what happened on any shot.
+
+Split out of the `SUM---LOK` repo (where it lived in `word-strike/`) with its full commit history.
